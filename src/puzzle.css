@@ -7,10 +7,31 @@
 
 /* for the jigsaw puzzle container */
 .jigsaw-puzzle {
-	width: 100%;
+	width: 99%;
 	height: 100%;
 	border: 2px solid black;
 	margin: auto;
 	box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.25);
 }
+
+.instructions-front{
+    width: 50%;
+	height: 50%;
+	border: 2px solid black;
+	margin: auto;
+	box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.25);
+}
+
+.instructions-back{
+    width: 50%;
+	height: 50%;
+	border: 2px solid black;
+	margin: auto;
+	box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.25);
+}
+
+.instruction-container {
+    display: flex;
+    flex-direction: row;
+  }
 
