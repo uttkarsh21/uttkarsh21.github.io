@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.685ad77e.css",
-    "main.js": "/static/js/main.729e7f74.js",
-    "static/media/UnessayPuzzle_color.png": "/static/media/UnessayPuzzle_color.c6522b868b8c8eb4973b.png",
-    "index.html": "/index.html",
-    "main.685ad77e.css.map": "/static/css/main.685ad77e.css.map",
-    "main.729e7f74.js.map": "/static/js/main.729e7f74.js.map"
+    "main.css": "/unessay/static/css/main.685ad77e.css",
+    "main.js": "/unessay/static/js/main.2f63475c.js",
+    "static/media/UnessayPuzzle_color.png": "/unessay/static/media/UnessayPuzzle_color.c6522b868b8c8eb4973b.png",
+    "index.html": "/unessay/index.html",
+    "main.685ad77e.css.map": "/unessay/static/css/main.685ad77e.css.map",
+    "main.2f63475c.js.map": "/unessay/static/js/main.2f63475c.js.map"
   },
   "entrypoints": [
     "static/css/main.685ad77e.css",
-    "static/js/main.729e7f74.js"
+    "static/js/main.2f63475c.js"
   ]
 }
