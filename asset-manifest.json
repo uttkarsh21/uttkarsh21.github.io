@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.685ad77e.css",
+    "main.js": "/react-gh-pages/static/js/main.0656916f.js",
+    "static/media/UnessayPuzzle_color.png": "/react-gh-pages/static/media/UnessayPuzzle_color.c6522b868b8c8eb4973b.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.685ad77e.css.map": "/react-gh-pages/static/css/main.685ad77e.css.map",
+    "main.0656916f.js.map": "/react-gh-pages/static/js/main.0656916f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685ad77e.css",
+    "static/js/main.0656916f.js"
+  ]
+}
