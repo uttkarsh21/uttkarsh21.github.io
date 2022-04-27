@@ -11,7 +11,7 @@ function App() {
 	const [text, setText] = useState("Unessay Connection - Connect all the pieces!!");
 	
 	const set = () => {
-		setText("Congratulations!!");
+		setText("Congratulations, now you are ready to start your PhD!!");
 	};
 	
 	return (
@@ -24,7 +24,7 @@ function App() {
 			<JigsawPuzzle
 				imageSrc={img}
 				rows={3}
-				columns={3}
+				columns={4}
 				onSolved={set}
 				className="jigsaw-puzzle"
 			/>
