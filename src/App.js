@@ -1,11 +1,10 @@
-import React, { useState } from "react";
+import React, { useState , component} from "react";
 import "./App.css";
 import "./puzzle.css";
 import { JigsawPuzzle } from "react-jigsaw-puzzle/lib";
 import "react-jigsaw-puzzle/lib/jigsaw-puzzle.css";
 import img from "./UnessayPuzzle_color.png";
 
-import React, { Component } from "react";
 import { HashRouter, Route, Switch } from "react-router-dom";
 import Home from "./components/Homepage";
 import Page2 from "./components/Page2";
