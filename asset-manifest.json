@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/unessay/static/css/main.a19a4bc8.css",
-    "main.js": "/unessay/static/js/main.6f0107f2.js",
-    "static/media/UnessayPuzzle_DirectionsFront.jpg": "/unessay/static/media/UnessayPuzzle_DirectionsFront.c717df97b7039696d18b.jpg",
-    "static/media/UnessayPuzzle_Directions_Back.jpg": "/unessay/static/media/UnessayPuzzle_Directions_Back.9b7b946f0cdfaa8a2712.jpg",
-    "static/media/UnessayPuzzle_color.png": "/unessay/static/media/UnessayPuzzle_color.c6522b868b8c8eb4973b.png",
-    "index.html": "/unessay/index.html",
-    "main.a19a4bc8.css.map": "/unessay/static/css/main.a19a4bc8.css.map",
-    "main.6f0107f2.js.map": "/unessay/static/js/main.6f0107f2.js.map"
+    "main.css": "/static/css/main.a19a4bc8.css",
+    "main.js": "/static/js/main.46581928.js",
+    "static/media/UnessayPuzzle_DirectionsFront.jpg": "/static/media/UnessayPuzzle_DirectionsFront.c717df97b7039696d18b.jpg",
+    "static/media/UnessayPuzzle_Directions_Back.jpg": "/static/media/UnessayPuzzle_Directions_Back.9b7b946f0cdfaa8a2712.jpg",
+    "static/media/UnessayPuzzle_color.png": "/static/media/UnessayPuzzle_color.c6522b868b8c8eb4973b.png",
+    "index.html": "/index.html",
+    "main.a19a4bc8.css.map": "/static/css/main.a19a4bc8.css.map",
+    "main.46581928.js.map": "/static/js/main.46581928.js.map"
   },
   "entrypoints": [
     "static/css/main.a19a4bc8.css",
-    "static/js/main.6f0107f2.js"
+    "static/js/main.46581928.js"
   ]
 }
