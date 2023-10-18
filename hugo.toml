@@ -1,7 +1,7 @@
 ######################## configuration ####################
 baseURL = 'https://www.uttkarshnarayan.com/'
 title = 'Personal Website'
-theme = "somrat"
+theme = "somrat2"
 # post pagination
 paginate = "6"
 # post excerpt
