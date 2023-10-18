@@ -1,7 +1,7 @@
 ---
 title: "XERT"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/Xert.png"
+image: "images/portfolio/Xert.jpg"
 categories: ["design","development", "research"]
 description: "This is meta description."
 draft: false

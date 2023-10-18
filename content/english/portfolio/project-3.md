@@ -1,7 +1,7 @@
 ---
 title: "Geoexplorer"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/Geo.PNG"
+image: "images/portfolio/Geo.jpg"
 categories: ["development", "research", "webdev"]
 description: "This is meta description."
 draft: false
