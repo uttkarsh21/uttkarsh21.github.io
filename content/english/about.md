@@ -1,10 +1,10 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+image : "images/backgrounds/portrait1.jpg"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
+  label : "Resume"
   link : "#"
 
 ########################### Experience ##############################
@@ -13,7 +13,7 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
+    - name : "Games Researcher"
       company : "Fiverr.com"
       duration : "2016-2018"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."

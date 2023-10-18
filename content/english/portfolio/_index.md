@@ -1,6 +1,7 @@
 ---
-title: "Portfolio"
+title: "Projects"
 description: "This is meta description."
+bg_image: "images/backgrounds/need-service.jpg"
 draft: false
 
 

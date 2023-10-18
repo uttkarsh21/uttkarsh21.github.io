@@ -1,7 +1,7 @@
 ---
-title: "Project Title"
+title: "Studycrafter"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item2.jpg"
+image: "images/portfolio/SC2.png"
 categories: ["design","development"]
 description: "This is meta description."
 draft: false
@@ -11,13 +11,7 @@ project_info:
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://www.studycrafter.com/"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore

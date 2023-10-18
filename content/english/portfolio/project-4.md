@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
+title: "Debris"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item4.jpg"
-categories: ["database"]
+image: "images/portfolio/Debris.png"
+categories: ["development","research"]
 description: "This is meta description."
 draft: false
 project_info:

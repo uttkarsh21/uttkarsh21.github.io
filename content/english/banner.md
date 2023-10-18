@@ -1,25 +1,24 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Hello there! I research..."
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Uttkarsh"
+last_name : "Narayan"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Games"
+- "Human Computer Cooperation"
+- "Digital Communities"
+- "Data Collaboration"
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
 - "images/slider/slider-3.jpg"
 
 # button
 button:
   enable : true
-  label : "HIRE ME"
+  label : "I'm Uttkarsh Narayan"
   link : "#contact"
 
 
