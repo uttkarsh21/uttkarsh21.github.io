@@ -19,7 +19,7 @@ slider_images:
 button:
   enable : true
   label : "I'm Uttkarsh Narayan"
-  link : "#contact"
+  link : "#about"
 
 
 # custom style
