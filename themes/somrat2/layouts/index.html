@@ -363,7 +363,8 @@
 <!-- Start Contact -->
 {{ with .GetPage "contact"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
-<section id="cta" class="contact overlay section-sm wow fadeInUp {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s" style="background-image: url('{{ .Params.bg_image | absURL }}');">  <div class="container position-relative z-index-9">
+<section class="contact overlay section-sm wow fadeInUp {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s" id="contact" style="background-image: url('{{ .Params.bg_image | absURL }}');">  
+  <div class="container position-relative z-index-9">
     <div class="fun-facts wow fadeInUp" data-wow-duration="1.5s">
       {{ range .Params.funfacts }}
       <div class="fun-fact-holder">
