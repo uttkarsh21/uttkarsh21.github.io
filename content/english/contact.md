@@ -3,24 +3,24 @@ title : "Uttkarsh Narayan"
 bg_image: "images/backgrounds/need-service.jpg"
 funfacts:
 # funfacts item loop
-- name : "HANDS TO WORK"
+- name : "BUGS CREATED"
   image : "images/icons/works.png"
   count : "100"
   
 # funfacts item loop
-- name : "HAPPY CLIENT"
+- name : "BUGS FIXED"
   image : "images/icons/happy.png"
-  count : "200"
+  count : "99"
   
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "PAPERS READ"
   image : "images/icons/project.png"
-  count : "250"
+  count : "9001"
   
 # funfacts item loop
 - name : "CUPS OF COFFEE"
-  image : "images/icons/coffee1.png"
-  count : "150"
+  image : "images/icons/coffee.png"
+  count : "666"
 
 # custom style
 custom_class: "" 
