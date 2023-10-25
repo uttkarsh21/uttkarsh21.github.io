@@ -3,7 +3,7 @@ title : "Hello there! I research..."
 # full screen navigation
 first_name : "Uttkarsh"
 last_name : "Narayan"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "images/backgrounds/backgroundNav1.png"
 # animated text loop
 occupations:
 - "Games"
@@ -13,7 +13,9 @@ occupations:
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-3.jpg"
+- "images/slider/El_Mac_018.jpg"
+- "images/slider/neu_374841.jpg"
+- "images/slider/NU_999Cranes_JK.jpg"
 
 # button
 button:

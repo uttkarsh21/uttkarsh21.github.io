@@ -36,10 +36,6 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Mixed Methods Research"
-      percentage : "85%"
-      
-    # skill item loop
     - name : "Unity Development & C#"
       percentage : "98%"
       
@@ -50,6 +46,10 @@ skill:
     # skill item loop
     - name : "Python"
       percentage : "89%"
+
+    # skill item loop
+    - name : "Mixed Methods Research"
+      percentage : "75%"
 
 
 # custom style

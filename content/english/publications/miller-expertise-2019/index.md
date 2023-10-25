@@ -8,7 +8,6 @@ authors:
 - Seth Cooper
 - Magy Seif El-Nasr
 date: '2019-08-26'
-publishDate: '2023-10-23T06:22:34.891139Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 14th International Conference on the Foundations

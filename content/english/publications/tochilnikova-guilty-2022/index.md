@@ -10,7 +10,6 @@ authors:
 - Miso Kim
 - Casper Harteveld
 date: '2022-04-29'
-publishDate: '2023-10-23T06:22:34.904738Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2022 CHI Conference on Human Factors in Computing

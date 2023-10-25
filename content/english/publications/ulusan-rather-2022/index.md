@@ -8,7 +8,6 @@ authors:
 - Ozlem Ergun
 - Casper Harteveld
 date: '2022-03-22'
-publishDate: '2023-10-23T06:22:34.899397Z'
 publication_types:
 - paper-conference
 publication: '*27th International Conference on Intelligent User Interfaces*'

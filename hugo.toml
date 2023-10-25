@@ -62,7 +62,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 #################### default parameters ################################
 [params]
-favicon = "images/icons/logo3.png"
+favicon = "images/icons/favicon.png"
 logo_light = "images/icons/logo2.png"
 logo_dark = "images/icons/logo4.png"
 logo_width = "100px"

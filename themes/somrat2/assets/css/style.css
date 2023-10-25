@@ -1063,6 +1063,133 @@ ul.experience-chart h4 {
 ----------------------------------*/
 
 /*--------------------------------
+  Start Publications
+----------------------------------*/
+
+.publications {
+  background: #fff;
+  padding: 50px 0px;
+}
+
+.publications-heading {
+  position: relative;
+}
+
+.publications-heading h1 {
+  color: #6f6f6f;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 6px;
+  margin-bottom: 5px;
+  position: relative;
+}
+
+.publications-heading h1:before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  right: 0;
+  left: 0;
+  margin: auto;
+  width: 70px;
+  height: 5px;
+  background: #6f6f6f;
+}
+
+  /* Define a custom style for links */
+  .publications-black {
+    position: relative;
+    color: #000000; /* Change the color to a cool-looking one (e.g., orange) */
+    text-decoration: none; /* Remove underlines from links */
+    transition: color 0.3s; /* Add a smooth transition effect for color changes */
+  }
+
+  .publications-black:hover {
+    text-decoration: none; /* Add underlines on hover */
+    color: #7d25b1; /* Change the color on hover (a slightly darker shade of orange) */
+  }
+
+  .publications-black::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px; /* Adjust the underline height as needed */
+    bottom: 0;
+    right: 50%; /* Initially position the underline outside the element on the right */
+    background: #7d25b1; /* Set the underline color (e.g., a darker shade of purple) */
+    transform: scaleX(0); /* Start with zero width */
+  
+    transition: transform 0.3s, right 0.3s; /* Add a smooth transition for the underline and its position */
+  }
+  
+  .publications-black:hover::before {
+    right: 0; /* Move the underline to the right edge of the element on hover */
+    transform: scaleX(1); /* Expand the underline to full width on hover */
+  }
+
+  .publications-chart {
+    list-style: none;
+    padding: 0px 0px 0px 10px;
+    margin-top: 40px;
+  }
+  
+  ul.publications-chart li {
+    padding-left: 30px;
+    border-left: 2px solid #6f6f6f;
+    padding-bottom: 5px;
+    position: relative;
+  }
+  
+  ul.publications-chart li:last-child {
+    padding-bottom: 0;
+  }
+  
+  ul.publications-chart li:after {
+    position: absolute;
+    top: -1px;
+    left: -12px;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #4d4d4d;
+    background: #fff;
+    content: '';
+    -webkit-transition: all 0.3s;
+    transition: all 0.7s;
+  }
+  
+  ul.publications-chart li:hover:after {
+    background: #4d4d4d;
+  }
+  
+  ul.publications-chart h4 {
+    font-size: 19px;
+    margin-top: 0;
+    margin-bottom: 4px;
+    font-weight: 700;
+    color: #4d4d4d;
+  }
+  
+  .publications-chart li span {
+    font-weight: 700;
+    color: #6f6f6f;
+  }
+  
+  .publications-chart li p {
+    color: #6f6f6f;
+  }
+  
+  .single-publication {
+    position: relative;
+    top: -2px;
+  }
+
+/*--------------------------------
+   End Publications
+----------------------------------*/
+
+/*--------------------------------
   Start Services
 ----------------------------------*/
 
