@@ -187,7 +187,7 @@
           <div class="content">{{ .Content | markdownify | emojify }}</div>
           {{ with .Params.button }}
           {{ if .enable }}
-          <a href="{{ .link | absURL }}" class="download-cv hvr-icon-hang"> {{ .label }} &nbsp; &nbsp; &nbsp;</a>
+          <a class="download-cv hvr-icon-hang" href="{{ .link }}"> {{ .label }} &nbsp; &nbsp; &nbsp;</a>
           {{ end }}
           {{ end }}
         </div>
@@ -382,7 +382,7 @@ End Testimonials -->
       <hr>
       <ul class="footer-icons list-inline">
         {{ range site.Params.social }}
-        <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+        <li><a href="{{ .link | safeURL }}"  target="_blank"><i class="{{ .icon }}"></i></a></li>
         {{ end }}
       </ul>
     </div>
