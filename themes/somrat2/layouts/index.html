@@ -277,7 +277,7 @@
           <div class="col-lg-4 col-md-6 col-sm-6 col-12 filtr-item"
             data-groups="[{{range $index, $element:= .Params.categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
             <div class="item-holder">
-              <a class="image-pop" href="{{ .Params.image | absURL }}" title="{{ .Title | markdownify }}">
+              <a href="{{.Permalink}}" title="{{ .Title | markdownify }}">
                  <img src="{{ .Params.image | absURL }}" alt="{{ .Title | markdownify }}">
               </a>
               <div class="item-caption">
@@ -285,7 +285,6 @@
                 {{ range .Params.categories }}
                 <p class="mb-0 text-light">{{ . | title }}</p>
                 {{ end }}
-                <div class="item-created text-light">{{ .PublishDate.Format "02 Jan, 06" }}</div>
               </div>
             </div>
           </div>
@@ -376,8 +375,8 @@ End Testimonials -->
       </div>
       {{ end }}
     </div>
-    <div class="contact-heading" style="color: white;">{{ .Title | markdownify }}</div>
-    <div class="footer col-lg-10 offset-lg-1">
+    <div class="contact-header wow fadeInUp" data-wow-duration="1.5s">{{ .Params.email | markdownify }}</div>
+    <div class="footer col-lg-10 offset-lg-1 wow fadeInUp" data-wow-duration="1.5s">
       <hr>
       <ul class="footer-icons list-inline">
         {{ range site.Params.social }}

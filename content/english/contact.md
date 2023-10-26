@@ -1,5 +1,5 @@
 ---
-title : "Uttkarsh Narayan"
+email : "narayan.u@northeastern.edu"
 bg_image: "images/backgrounds/need-service.jpg"
 funfacts:
 # funfacts item loop

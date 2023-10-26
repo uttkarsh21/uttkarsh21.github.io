@@ -1,48 +1,17 @@
 ---
 title: "Debris"
-date: 2020-05-12T12:14:34+06:00
+timeline: 2018-2019
 image: "images/portfolio/Debris.jpg"
 categories: ["development","research"]
 description: "This is meta description."
 draft: false
 project_info:
-- name: "Client"
+- name: "Ghostlab"
   icon: "fas fa-user"
-  content: "John Doe"
+  content: "Northeastern"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://ghostlab.sites.northeastern.edu/project-debris/"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
-
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
-
-
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+In Debris, players are tasked with assigning contractors to collect debris around a borough in New York after it was hit with a natural disaster. The players need to do this while considering the three objectives of time spent, money earned, and intersections or spatial overlap by the contractors. The goal of the game is to optimize the debris collection operations. The game assists you in this goal via Deborah – an optimised algorithm for the debris collection problem. The human player and machine Deborah collaborate with each other to optimise each objective and the over all debris collection operation.

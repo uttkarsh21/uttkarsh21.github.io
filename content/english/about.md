@@ -36,11 +36,11 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Unity Development & C#"
+    - name : "Unity & C#"
       percentage : "98%"
       
     # skill item loop
-    - name : "Web Development & Javascript"
+    - name : "Web & JS"
       percentage : "80%"
       
     # skill item loop

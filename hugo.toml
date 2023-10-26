@@ -1,6 +1,6 @@
 ######################## configuration ####################
 baseURL = 'https://www.uttkarshnarayan.com/'
-title = 'Personal Website'
+title = 'Uttkarsh Narayan'
 theme = "somrat2"
 # post pagination
 paginate = "6"

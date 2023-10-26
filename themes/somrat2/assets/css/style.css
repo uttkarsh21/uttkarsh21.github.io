@@ -1336,15 +1336,16 @@ ul.experience-chart h4 {
   text-align: center;
   font-weight: 700;
   letter-spacing: 4px;
+  top: 20px;
   position: relative;
 }
 
 .portfolio h1:before {
   content: "";
   height: 5px;
-  background: #000000;
+  background: #fffefe;
   position: absolute;
-  top: -15px;
+  top: -10px;
   left: 46.5%;
   right: 46.5%;
 }
@@ -1684,18 +1685,26 @@ ul.experience-chart h4 {
 ----------------------------------*/
 
 .contact {
-  width: 100%;
-  background: #313131;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  font-size: 24px;
+  color: #ffffff;
   position: relative;
   text-align: center;
+  padding-top: 50px;
+}
+
+.contact-header {
+  color: #ffffff !important;
+  font-weight: 700;
+  text-align: center;
+  padding: 20px;
+}
+
+.contact-header h1 {
+  font-size: 24px;
 }
 
 .footer {
-  padding-top: 100px;
+  padding-top: 20px;
   padding-bottom: 70px;
   position: relative;
   z-index: 2;
