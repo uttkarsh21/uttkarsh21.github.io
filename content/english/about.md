@@ -41,7 +41,7 @@ skill:
       
     # skill item loop
     - name : "Web & JS"
-      percentage : "80%"
+      percentage : "70%"
       
     # skill item loop
     - name : "Python"
@@ -49,7 +49,7 @@ skill:
 
     # skill item loop
     - name : "Mixed Methods Research"
-      percentage : "75%"
+      percentage : "80%"
 
 
 # custom style
