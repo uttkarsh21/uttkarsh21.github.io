@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-My name is Uttkarsh Narayan and my research is focused in on the intersection of <i>network sciences, communication studies, HCI, games and design </i>.<br>Stay connect with me........😊
+My name is Uttkarsh Narayan and my research is focused in on the intersection of <i>network sciences, communication studies, HCI, games and design </i>.<br>Connect with me........😊

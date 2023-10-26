@@ -318,13 +318,15 @@
     <div class="row publications mx-auto">
       <div class="wow fadeInUp" data-wow-duration="1.5s" data-groups="[{{ range $index, $element := .Params.categories }}{{ if ne $index 0 }},{{ end }}&quot;{{ . | urlize }}&quot;{{ end }}]">
         {{ range first 6 .Data.Pages }}
-        <div class="publications-chart">
-          <a class="publications-black" href="{{ .Permalink }}">
-            <div class="single-publication">
-              <h5>{{ .Title | markdownify }}</h5>
-            </div>
-          </a>
-        </div>
+        <ul class="publications-chart">
+          <li>
+              <div>
+                <a class="publications-black" href="{{ .Permalink }}">
+                  <h5>{{ .Title | markdownify }}</h5>
+                </a>
+              </div>
+          </li>
+        </ul>
         {{ end }}
       </div>
     </div>      
