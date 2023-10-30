@@ -966,7 +966,7 @@ ul.experience-chart li:after {
 }
 
 ul.experience-chart li:hover:after {
-  background: #4d4d4d;
+  background: #7d25b1;
 }
 
 ul.experience-chart h4 {
@@ -1052,7 +1052,7 @@ ul.experience-chart h4 {
   height: 10px;
   margin: 0px 2px;
   width: 0px;
-  background: #4d4d4d;
+  background: #7d25b1;
   border-radius: 22px;
   -moz-border-radius: 22px;
   -webkit-border-radius: 22px;
@@ -1708,7 +1708,7 @@ ul.experience-chart h4 {
   display: inline-flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  width: 210px;
+  width: 510px;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
@@ -1726,7 +1726,7 @@ ul.experience-chart h4 {
 .to-top a {
   text-decoration: none;
   color: #313131;
-  font-size: 17px;
+  font-size: 40px;
 }
 
 .footer-icons .fab.fa-facebook-f {
