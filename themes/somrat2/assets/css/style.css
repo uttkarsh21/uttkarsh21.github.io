@@ -322,9 +322,9 @@ body {
 }
 
 .head-holder .hireMe:hover {
-  background: #6f6f6f;
+  background: #230733;
   color: #fff;
-  border: 2px solid #6f6f6f;
+  border: 2px solid #7d25b1;
 }
 
 input+label {
@@ -851,7 +851,7 @@ input:checked+label span:last-child {
 
 .about-me-text h1 {
   position: relative;
-  color: #6f6f6f;
+  color: #230733;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -877,14 +877,14 @@ input:checked+label span:last-child {
   font-weight: 700;
   margin-top: 15px;
   display: inline-block;
-  border: 2px solid #4d4d4d;
+  border: 2px solid #230733;
   padding: 7px 10px;
 }
 
 .download-cv:hover,
 .download-cv:focus {
   text-decoration: none;
-  color: #4d4d4d;
+  color: #7d25b1;
 }
 
 .about-me-images img {
@@ -928,7 +928,7 @@ input:checked+label span:last-child {
 
 .experience h3,
 .skill h3 {
-  color: #6f6f6f;
+  color: #230733;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -1708,7 +1708,7 @@ ul.experience-chart h4 {
   display: inline-flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  width: 510px;
+  width: 350px;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
@@ -1726,7 +1726,7 @@ ul.experience-chart h4 {
 .to-top a {
   text-decoration: none;
   color: #313131;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .footer-icons .fab.fa-facebook-f {
@@ -1742,6 +1742,19 @@ ul.experience-chart h4 {
 }
 
 .footer-icons .fab:hover {
+  -webkit-transform: translateY(5px);
+  transform: translateY(5px);
+}
+
+.footer-icons .ai,
+.to-top .ai {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  background: #fff;
+  padding: 7px;
+}
+
+.footer-icons .ai:hover {
   -webkit-transform: translateY(5px);
   transform: translateY(5px);
 }

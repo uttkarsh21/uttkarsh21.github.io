@@ -40,6 +40,8 @@ link = "plugins/owl-carousel/owl.carousel.min.css"
 link = "plugins/owl-carousel/owl.theme.default.min.css"
 [[params.plugins.css]]
 link = "plugins/text-animation/text-animation.css"
+[[params.plugins.css]]
+link = "plugins/academicons/css/academicons.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -77,7 +79,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
-icon = "fab fa-google"
+icon = "ai ai-google-scholar"
 link = "https://scholar.google.com/citations?hl=en&user=tGpuqHkAAAAJ"
 
 [[params.social]]
