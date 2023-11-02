@@ -567,6 +567,19 @@ input:checked+label span:last-child {
   transform: translateY(5px);
 }
 
+.full-nav-icons .ai,
+.to-top .fab {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  background: #fff;
+  padding: 7px;
+}
+
+.full-nav-icons .ai:hover {
+  -webkit-transform: translateY(5px);
+  transform: translateY(5px);
+}
+
 /*--------------------------------
   End Header
 ----------------------------------*/
@@ -1708,7 +1721,7 @@ ul.experience-chart h4 {
   display: inline-flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  width: 350px;
+  width: 320px;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
