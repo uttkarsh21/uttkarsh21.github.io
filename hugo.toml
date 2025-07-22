@@ -3,7 +3,7 @@ baseURL = 'https://www.uttkarshnarayan.com/'
 title = 'Uttkarsh Narayan'
 theme = "somrat2"
 # post pagination
-paginate = "6"
+pagination.pagerSize = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
