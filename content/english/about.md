@@ -4,8 +4,8 @@ image : "images/backgrounds/portrait1.jpg"
 # button
 button:
   enable : true
-  label : "Contact"
-  link : "#contact"
+  label : "Resume"
+  link : "resume/Academic_Resume.pdf"
 
 ########################### Experience ##############################
 experience:
