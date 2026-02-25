@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gamesploring on Uttkarsh Narayan</title>
-    <link>https://www.uttkarshnarayan.com/tags/gamesploring/</link>
+    <link>http://localhost:1313/tags/gamesploring/</link>
     <description>Recent content in Gamesploring on Uttkarsh Narayan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
     <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.uttkarshnarayan.com/tags/gamesploring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gamesploring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>“Rather Solve the Problem from Scratch”: Gamesploring Human-Machine Collaboration for Optimizing the Debris Collection Problem</title>
-      <link>https://www.uttkarshnarayan.com/publications/ulusan-rather-2022/</link>
+      <link>http://localhost:1313/publications/ulusan-rather-2022/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.uttkarshnarayan.com/publications/ulusan-rather-2022/</guid>
+      <guid>http://localhost:1313/publications/ulusan-rather-2022/</guid>
       <description></description>
     </item>
   </channel>

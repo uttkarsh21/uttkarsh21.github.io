@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Psychotherapy on Uttkarsh Narayan</title>
-    <link>https://www.uttkarshnarayan.com/tags/digital-psychotherapy/</link>
+    <link>http://localhost:1313/tags/digital-psychotherapy/</link>
     <description>Recent content in Digital Psychotherapy on Uttkarsh Narayan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
     <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.uttkarshnarayan.com/tags/digital-psychotherapy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/digital-psychotherapy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>“Guilty of Talking Too Much”: How Psychotherapists Gamify Therapy</title>
-      <link>https://www.uttkarshnarayan.com/publications/tochilnikova-guilty-2022/</link>
+      <link>http://localhost:1313/publications/tochilnikova-guilty-2022/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.uttkarshnarayan.com/publications/tochilnikova-guilty-2022/</guid>
+      <guid>http://localhost:1313/publications/tochilnikova-guilty-2022/</guid>
       <description></description>
     </item>
   </channel>

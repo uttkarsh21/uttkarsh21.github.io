@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game-Based Learning on Uttkarsh Narayan</title>
-    <link>https://www.uttkarshnarayan.com/tags/game-based-learning/</link>
+    <link>http://localhost:1313/tags/game-based-learning/</link>
     <description>Recent content in Game-Based Learning on Uttkarsh Narayan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
     <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.uttkarshnarayan.com/tags/game-based-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/game-based-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expertise and engagement: re-designing citizen science games with players&#39; minds in mind</title>
-      <link>https://www.uttkarshnarayan.com/publications/miller-expertise-2019/</link>
+      <link>http://localhost:1313/publications/miller-expertise-2019/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.uttkarshnarayan.com/publications/miller-expertise-2019/</guid>
+      <guid>http://localhost:1313/publications/miller-expertise-2019/</guid>
       <description></description>
     </item>
   </channel>

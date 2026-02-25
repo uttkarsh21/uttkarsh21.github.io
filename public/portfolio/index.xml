@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Uttkarsh Narayan</title>
-    <link>https://www.uttkarshnarayan.com/portfolio/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content in Projects on Uttkarsh Narayan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <atom:link href="https://www.uttkarshnarayan.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debris</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-4/</link>
+      <link>http://localhost:1313/portfolio/project-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-4/</guid>
+      <guid>http://localhost:1313/portfolio/project-4/</guid>
       <description>&lt;p&gt;In Debris, players are tasked with assigning contractors to collect debris around a borough in New York after it was hit with a natural disaster. The players need to do this while considering the three objectives of time spent, money earned, and intersections or spatial overlap by the contractors. The goal of the game is to optimize the debris collection operations. The game assists you in this goal via Deborah – an optimised algorithm for the debris collection problem. The human player and machine Deborah collaborate with each other to optimise each objective and the over all debris collection operation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Geoexplorer</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-3/</link>
+      <link>http://localhost:1313/portfolio/project-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-3/</guid>
+      <guid>http://localhost:1313/portfolio/project-3/</guid>
       <description>&lt;p&gt;GeoExplorer is an educational game has been developed for undergraduate classroom settings for the instruction of Geotechnical Engineering (i.e., a subdiscipline of Civil Engineering). The vision behind this game is to provide experience for undergraduate civil engineering students with various field testing techniques for which students traditionally get little to no hands-on exposure. The current version of the game focuses on Cone Penetration Testing (CPT) and gives students an opportunity to experience and learn the important geotechnical engineering task of identifying soil types across different locations via CPT.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Studycrafter</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-2/</link>
+      <link>http://localhost:1313/portfolio/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-2/</guid>
+      <guid>http://localhost:1313/portfolio/project-2/</guid>
       <description>&lt;p&gt;StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together.&#xA;It is intended for teaching research and conducting the next generation of social and behavioral science research – and to engage the public at large with scientific research across the world. It takes a playful approach to science: it inspires users to find creative ways to explore human behavior and enables them to create gamified projects to engage their participants.&lt;/p&gt;</description>
     </item>
     <item>
       <title>XERT</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-1/</link>
+      <link>http://localhost:1313/portfolio/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-1/</guid>
+      <guid>http://localhost:1313/portfolio/project-1/</guid>
       <description>&lt;p&gt;Our goal in this program is to facilitate the coordinated&#xA;transformation of the workforce in industry and in the government&#xA;(both civilian and military sectors) and ensure that the training&#xA;and capability of skilled personnel in the government sector (both&#xA;uniformed and civilian) are able to adapt and keep pace with the&#xA;accelerated rate of change in advanced and additive&#xA;manufacturing practices.&lt;/p&gt;</description>
     </item>
   </channel>
