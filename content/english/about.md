@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait1.jpg"
 button:
   enable : true
   label : "Resume"
-  link : "resume/Academic_Resume.pdf"
+  link : "resume/Academic_CV.pdf"
 
 ########################### Experience ##############################
 experience:

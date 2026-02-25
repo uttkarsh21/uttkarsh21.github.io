@@ -133,7 +133,7 @@ url = "publications"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Resume"
+name = "Resume/CV"
 pre = "#"
 url = "Resume"
 weight = 6
